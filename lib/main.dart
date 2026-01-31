@@ -41,7 +41,7 @@ class _SignatureAnalyzerHomeState extends State<SignatureAnalyzerHome> {
   bool _isApiHealthy = false;
   bool _checkingHealth = false;
 
-  // Use API configuration from config file
+ 
   String get baseUrl => ApiConfig.baseUrl;
   String get predictUrl => '$baseUrl/predict';
   String get healthUrl => '$baseUrl/health';
