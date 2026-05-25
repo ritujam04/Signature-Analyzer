@@ -26,8 +26,8 @@ The dataset used for training and evaluation was **self-collected and published 
 - **Detailed Metrics**: View technical features including:
   - Alignment entropy
   - Slant variance
-  - Pressure distribution
-  - Stroke consistency
+  - Spacing distribution
+  
 - **Multi-Platform Support**: Works on iOS, Android, Web, Linux, macOS, and Windows
 - **User-Friendly Interface**: Clean, intuitive design with Material 3 styling
 - **API Integration**: Connects to a FastAPI backend for signature analysis
