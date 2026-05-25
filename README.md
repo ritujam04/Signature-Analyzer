@@ -195,10 +195,17 @@ class ApiConfig {
 
 ## Screenshots
 
-See `flutter_frontend/screenshots/` for application interface screenshots:
-- Home screen with upload options
-- Analysis results with confidence scores
-- Technical details view with advanced metrics
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+*The main interface showing the image upload area and analysis options.*
+
+### Analysis Results
+![Analysis Results](screenshots/analysis_results.png)
+*Detailed results showing whether the signature is forceful or natural, with confidence scores.*
+
+### Technical Details
+![Technical Details](screenshots/technical_details.png)
+*Expanded view showing technical features like alignment entropy and slant variance.*
 
 ---
 
